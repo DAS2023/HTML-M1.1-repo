@@ -1,0 +1,13 @@
+h1{
+    color: rgb(210, 227, 210);
+   
+    text-align: center;
+    height: 400px;
+    background-image: url('../img/Games-HD-Wallpapers-18.jpg');
+
+}
+
+.p1{
+    background-color: rgb(205, 161, 108);
+    border: 5px solid tomato;
+}
